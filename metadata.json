@@ -1,0 +1,6 @@
+{
+  "name": "Smart Warehouse AI",
+  "description": "Real-time AI-powered warehouse management and inventory tracking system featuring QR/RFID scanner, storage location optimizer, and predictive equipment maintenance.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
